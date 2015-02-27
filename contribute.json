@@ -1,0 +1,23 @@
+{
+    "name": "django-badger",
+    "description": "A reusable Django app that supports badges, to track and award achievements by your users.",
+    "repository": {
+        "url": "https://github.com/mozilla/django-badger",
+        "license": "BSD 3-Clause",
+        "tests": "https://travis-ci.org/mozilla/django-badger"
+    },
+    "participate": {
+        "home": "https://django-badger.readthedocs.org/en/latest/contributing.html",
+        "docs": "https://django-badger.readthedocs.org/en/latest/",
+        "irc": "irc://irc.mozilla.org/#badger",
+        "irc-contacts": ["lorchard"]
+    },
+    "bugs": {
+        "list": "https://github.com/mozilla/django-badger/issues",
+        "report": "https://github.com/mozilla/django-badger/issues/new"
+    },
+    "keywords": [
+        "django",
+        "python"
+    ]
+}
